@@ -2,6 +2,7 @@
 
 ## Overview
 This project visualizes the accessibility of hospitals across US counties. It leverages geospatial data analysis and visualization techniques to map the maximum distance from the center of each county to the nearest hospital.
+![Interactive Choropleth Map for Hospital Accessibility](https://github.com/mbabeykoon/HospitalsAccessibility/blob/main/preview%20.jpg)
 
 ## Libraries Used
 
@@ -17,8 +18,8 @@ The project uses two primary datasets:
 - US Counties Data: Contains information on US county centers.
 
 Please download the datasets from the following links:
-- [Hospitals Data] - https://hifld-geoplatform.opendata.arcgis.com/datasets/geoplatform::hospitals/about
-- [US Counties Data] - https://simplemaps.com/data/us-counties
+- Hospitals Data - https://hifld-geoplatform.opendata.arcgis.com/datasets/geoplatform::hospitals/about
+- US Counties Data - https://simplemaps.com/data/us-counties
 
 ## Visualizations
 
