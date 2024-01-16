@@ -38,8 +38,8 @@ To set up this project locally:
 - Install [Anaconda](https://www.anaconda.com/distribution/) or [Miniconda](https://docs.conda.io/en/latest/miniconda.html).
 - Clone the repository and navigate to the root directory.
   ```bash
-  git clone https://github.com/mbabeykoon/GeoSpatial.git
-  cd GeoSpatial
+  git clone https://github.com/mbabeykoon/HospitalsAccessibility.git
+  cd Hospitals Accessibility #path to your folder
 - Run the following command to create a conda environment from the `environment.yml` file:
   ```bash
   conda env create -f environment.yml
